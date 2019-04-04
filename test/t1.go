@@ -1,9 +1,9 @@
-package gomodule
+package test
 
 import (
 	"fmt"
 )
 
-func TestMsg() {
-	fmt.Println("test msg")
+func Test1() {
+	fmt.Println("test msg1")
 }
